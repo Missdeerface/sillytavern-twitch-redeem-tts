@@ -1,0 +1,8 @@
+{
+  "manifest_version": 1,
+  "name": "Twitch Redeem TTS",
+  "version": "0.1",
+  "author": "Deer",
+  "description": "Makes SillyTavern perform Text-to-Speech when a Twitch channel point redeem is detected.",
+  "entrypoint": "extension.js"
+}
